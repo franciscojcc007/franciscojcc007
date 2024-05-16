@@ -5,7 +5,7 @@
   
 Cómo contactarme:
 
-* cel. 809-367-0097
+
 
 Dato curioso:
 
