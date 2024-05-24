@@ -60,5 +60,5 @@ Dato curioso:
 
 * Me gusta la musica y gym.
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark) -->
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark) 
 
