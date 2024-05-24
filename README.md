@@ -2,8 +2,6 @@
 
 * Estoy trabajando actualmente en mi portafolio personal
 * Estoy aprendiendo actualmente Javascript, React Y C#.
-  
-Cómo contactarme:
 
 Dato curioso:
 
