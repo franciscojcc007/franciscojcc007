@@ -62,3 +62,5 @@ Dato curioso:
 
  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscojcc007&theme=dark)  -->
 
+
+> **Nota:** Este README es un trabajo en progreso, si deseas contribuir o tienes algun consejo amado sea😁🫰.
