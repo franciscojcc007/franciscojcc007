@@ -28,7 +28,7 @@
  ## 📖  Qué estoy aprendiendo/mejorando actualmente
 [<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="30" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="30" />][learning_now_anchor]
+<!--[<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="30" />][learning_now_anchor]-->
 
 
 ## 👾  Qué me interesa aprender en algún momento
