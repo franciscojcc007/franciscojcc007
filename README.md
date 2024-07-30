@@ -61,7 +61,7 @@
 
 ## 💡 Dato curioso
 
-* Me gusta la Musica Electronica y Techno.
+* Me gusta la Música Electronica y Techno.
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscojcc007&theme=dark) 
 
